@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="take_attendance">Take Attendance</string>
+    <string name="view_attendance">View Attendance</string>
+    <string name="university_attendance_app">University Attendance App</string>
+    <string name="_2024_10_01">2024-10-01</string>
+    <string name="sample_name">Sample Name</string>
+    <string name="save_attendance">Save Attendance</string>
+</resources>
